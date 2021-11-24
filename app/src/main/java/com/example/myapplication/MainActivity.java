@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
         button2.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v){
-                startActivity(new Intent(MainActivity.this, MapActivity.class));
+                startActivity(new Intent(MainActivity.this, NearMe.class));
             }
         });
 
