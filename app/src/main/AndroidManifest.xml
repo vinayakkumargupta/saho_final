@@ -13,6 +13,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".NearMe"
+            android:exported="false" />
+        <activity
+            android:name=".MapActivity"
+            android:exported="false"
+            android:label="@string/title_activity_map"
+            android:theme="@style/Theme.MyApplication.NoActionBar" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
             android:name=".elements.FuelPrice"
             android:exported="false" />
         <activity

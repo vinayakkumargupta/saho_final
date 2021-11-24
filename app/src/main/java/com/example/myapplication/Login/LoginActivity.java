@@ -14,6 +14,7 @@ package com.example.myapplication.Login;
         import android.widget.Button;
         import android.widget.EditText;
         import android.widget.ImageButton;
+        import android.widget.TextView;
         import android.widget.Toast;
 
         import com.android.volley.AuthFailureError;
@@ -33,6 +34,7 @@ public class LoginActivity extends AppCompatActivity {
 
     private static int RC_SIGN_IN = 40;
     Button SignInButton;
+    TextView t1;
 
 
     EditText ed_email, ed_password;
@@ -47,6 +49,7 @@ public class LoginActivity extends AppCompatActivity {
         setContentView(R.layout.activity_login);
 
         ed_email = findViewById(R.id.ed_email);
+
         ed_password = findViewById(R.id.ed_password);
         // Configure sign-in to request the user's ID, email address, and basic
 
@@ -60,6 +63,9 @@ public class LoginActivity extends AppCompatActivity {
         });
 
     }
+
+
+
 
 
     public void Login(View view) {
@@ -126,6 +132,7 @@ public class LoginActivity extends AppCompatActivity {
 
 
     }
+
 
 
 
