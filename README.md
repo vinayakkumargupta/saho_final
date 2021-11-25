@@ -51,3 +51,25 @@ We are even dealing with sensitive issues here, with a very high death rate thus
 
 SAHO will use user GPS data, we are obliged to not save or manipulate user data for any other purpose than further optimization of  the app.
 
+#APP Features 
+
+#1. Fuel Calculator 
+![WhatsApp Image 2021-11-25 at 1 39 19 PM (3)](https://user-images.githubusercontent.com/79376823/143413974-7292d63c-7d6e-4f45-a729-4b12db9d8ae7.jpeg)
+It Give you the Detail of Your Need Of Petrol According to your Vehicle Specification 
+#2. Nearby (Fuel,Bank,ATM,Resturant, Movie Threater)
+
+![WhatsApp Image 2021-11-25 at 1 39 19 PM (4)](https://user-images.githubusercontent.com/79376823/143414867-6db3e75f-619c-48d0-b923-5887ef426f5c.jpeg)
+find Evreything Near You Like ATM, BANK, RESTURANT, FUEL , MOVIE THREATER 
+#3 Fuel Detail 
+Get every State Fuel Price 
+![WhatsApp Image 2021-11-25 at 1 39 19 PM (5)](https://user-images.githubusercontent.com/79376823/143416938-bb243367-42e8-4d06-858f-2959080796c3.jpeg)
+
+# Vehicle Reco 
+
+![WhatsApp Image 2021-11-25 at 1 39 19 PM (5)](https://user-images.githubusercontent.com/79376823/143418103-a37fdafd-0ac9-4bb6-8d36-79806ebcd477.jpeg)
+
+
+
+
+
+
