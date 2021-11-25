@@ -11,6 +11,7 @@ import android.widget.TextView;
 
 import com.example.myapplication.MainActivity;
 import com.example.myapplication.R;
+import com.example.myapplication.fuelcost;
 
 public class FuelCalc extends AppCompatActivity {
     private EditText distance,price,mileage;
@@ -51,7 +52,7 @@ public class FuelCalc extends AppCompatActivity {
         button2 = findViewById(R.id.button5);
         button2.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v){
-                startActivity(new Intent(FuelCalc.this, FuelPrice.class));
+                startActivity(new Intent(FuelCalc.this, fuelcost.class));
             }
         });
     }

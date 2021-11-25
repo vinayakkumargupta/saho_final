@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         button = findViewById(R.id.guage);
         button2 = findViewById(R.id.imageButton);
+        button3 = findViewById(R.id.home);
         button.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v){
                 startActivity(new Intent(MainActivity.this, FuelCalc.class));
@@ -33,6 +34,13 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this, NearMe.class));
             }
         });
+
+        button3.setOnClickListener(new View.OnClickListener(){
+            public void onClick(View v){
+                startActivity(new Intent(MainActivity.this, fuelcost.class));
+            }
+        });
+
 
 
 

@@ -46,6 +46,9 @@ dependencies {
     def lottieVersion = "3.4.0"
     implementation "com.airbnb.android:lottie:$lottieVersion"
     implementation 'com.google.android.gms:play-services-auth:19.2.0'
-    implementation 'com.google.android.gms:play-services-location:17.0.0'
-    implementation  'com.google.android.gms:play-services-maps:17.0.0'
+    implementation 'com.google.android.gms:play-services-location:18.0.0'
+    implementation  'com.google.android.gms:play-services-maps:18.0.0'
+    implementation 'com.squareup.picasso:picasso:2.71828'
+    implementation 'org.jsoup:jsoup:1.14.3'
+
 }
